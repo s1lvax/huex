@@ -1,6 +1,6 @@
 import argparse
-from light_controller import LightController
-from conbee import Conbee
+from .light_controller import LightController
+from .conbee import Conbee
 
 def main():
     parser = argparse.ArgumentParser(description="Huex CLI Tool")

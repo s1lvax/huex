@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='huex',
-    version='0.1.1',
+    version='0.1.2',
     author='s1lvx',
     author_email='silva@cfsilva.com',
     description='A powerful and lightweight CLI based tool for the Conbee II',
