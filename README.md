@@ -23,7 +23,7 @@ When you execute a Huex command for the first time, it will fetch your Conbee II
 Example:
 
 ```
-huex show all
+huex show
 ```
 
 After this is done, Huex will prompt you to click ENTER once you've allowed authentication on your Conbee II dashboard.
@@ -41,7 +41,7 @@ Here are the current features:
 - Show state of all lights:
 
 ```
-huex show all
+huex show
 ```
 
 - Turn lights on/off
