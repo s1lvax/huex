@@ -1,0 +1,6 @@
+{
+  "name": "synGateway",
+  "gateway": "192.168.15.10",
+  "port": 8085,
+  "api_key": "AD90B2C222"
+}
