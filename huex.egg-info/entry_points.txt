@@ -1,0 +1,2 @@
+[console_scripts]
+huex = huex.main:main
